@@ -1,4 +1,4 @@
-# coinpot.faucets
+# Coinpot
 <p>它是一個MicroWallet。MicroWallet大部份都為水龍頭的網站在使用，目的是儲存小額虛擬貨幣，您可以透過這個Microwallet再把虛擬貨幣轉到交易所換成現金（這個之後會寫文章再做介紹）或把虛擬貨幣匯到其他錢包去做為不同的用途。所以大家在開始賺取水龍金的虛擬貨幣時，一定要先來注冊Coinpot，以下為Coinpot的操作，希望可以幫助大家更快了解CointPot的使用方法。</p>
 <p>Coinpot是2017成立的公司，它是一個整合多家水龍頭網站MicroWallet，目前支援的水龍頭網站包含：Moon系統水龍頭、Bonusbitcoin,和Bitfun。作為一個MicroWallet錢包，他支持儲存比特幣、Litecoin 和 Dogecoin 貨幣。</p>
 <h2>注冊</h2>
